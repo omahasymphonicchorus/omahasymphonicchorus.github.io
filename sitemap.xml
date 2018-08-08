@@ -10,4 +10,20 @@
     <loc>/about/</loc>
   </url>
   
+  <url>
+    <loc>/about/bios/</loc>
+  </url>
+  
+  <url>
+    <loc>/about/bios/greg/</loc>
+  </url>
+  
+  <url>
+    <loc>/about/bios/stacie/</loc>
+  </url>
+  
+  <url>
+    <loc>/about/history/</loc>
+  </url>
+  
 </urlset>
