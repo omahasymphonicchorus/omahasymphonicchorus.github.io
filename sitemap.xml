@@ -3,15 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-  </url>
-  
-  <url>
     <loc>/about/</loc>
   </url>
   
   <url>
+    <loc>/season/concerts/fall/</loc>
+  </url>
+  
+  <url>
+    <loc>/season/</loc>
+  </url>
+  
+  <url>
+    <loc>/season/concerts/catc/</loc>
+  </url>
+  
+  <url>
+    <loc>/season/concerts/gala/</loc>
+  </url>
+  
+  <url>
+    <loc>/season/concerts/spring/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
     <loc>/about/bios/</loc>
+  </url>
+  
+  <url>
+    <loc>/season/concerts/</loc>
   </url>
   
   <url>
