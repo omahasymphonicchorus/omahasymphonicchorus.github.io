@@ -19,6 +19,10 @@
   </url>
   
   <url>
+    <loc>/partners/</loc>
+  </url>
+  
+  <url>
     <loc>/season/concerts/gala/</loc>
   </url>
   
@@ -39,7 +43,63 @@
   </url>
   
   <url>
+    <loc>/partners/dickinson/</loc>
+  </url>
+  
+  <url>
     <loc>/about/bios/greg/</loc>
+  </url>
+  
+  <url>
+    <loc>/partners/ginger/</loc>
+  </url>
+  
+  <url>
+    <loc>/partners/immanuel/</loc>
+  </url>
+  
+  <url>
+    <loc>/partners/kios/</loc>
+  </url>
+  
+  <url>
+    <loc>/partners/kvno/</loc>
+  </url>
+  
+  <url>
+    <loc>/partners/lepeep/</loc>
+  </url>
+  
+  <url>
+    <loc>/partners/ls/</loc>
+  </url>
+  
+  <url>
+    <loc>/partners/mb/</loc>
+  </url>
+  
+  <url>
+    <loc>/partners/marchio/</loc>
+  </url>
+  
+  <url>
+    <loc>/partners/mq/</loc>
+  </url>
+  
+  <url>
+    <loc>/partners/nac/</loc>
+  </url>
+  
+  <url>
+    <loc>/partners/nce/</loc>
+  </url>
+  
+  <url>
+    <loc>/partners/nebraska_spine/</loc>
+  </url>
+  
+  <url>
+    <loc>/partners/nosh/</loc>
   </url>
   
   <url>
@@ -47,7 +107,15 @@
   </url>
   
   <url>
+    <loc>/partners/studiob/</loc>
+  </url>
+  
+  <url>
     <loc>/about/history/</loc>
+  </url>
+  
+  <url>
+    <loc>/partners/vesper/</loc>
   </url>
   
 </urlset>
