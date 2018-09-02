@@ -19,11 +19,15 @@
   </url>
   
   <url>
-    <loc>/partners/</loc>
+    <loc>/support/partners/</loc>
   </url>
   
   <url>
     <loc>/season/concerts/gala/</loc>
+  </url>
+  
+  <url>
+    <loc>/support/</loc>
   </url>
   
   <url>
@@ -47,7 +51,7 @@
   </url>
   
   <url>
-    <loc>/partners/dickinson/</loc>
+    <loc>/support/partners/dickinson/</loc>
   </url>
   
   <url>
@@ -59,55 +63,55 @@
   </url>
   
   <url>
-    <loc>/partners/ginger/</loc>
+    <loc>/support/partners/ginger/</loc>
   </url>
   
   <url>
-    <loc>/partners/immanuel/</loc>
+    <loc>/support/partners/immanuel/</loc>
   </url>
   
   <url>
-    <loc>/partners/kios/</loc>
+    <loc>/support/partners/kios/</loc>
   </url>
   
   <url>
-    <loc>/partners/kvno/</loc>
+    <loc>/support/partners/kvno/</loc>
   </url>
   
   <url>
-    <loc>/partners/lepeep/</loc>
+    <loc>/support/partners/lepeep/</loc>
   </url>
   
   <url>
-    <loc>/partners/ls/</loc>
+    <loc>/support/partners/ls/</loc>
   </url>
   
   <url>
-    <loc>/partners/mb/</loc>
+    <loc>/support/partners/mb/</loc>
   </url>
   
   <url>
-    <loc>/partners/marchio/</loc>
+    <loc>/support/partners/marchio/</loc>
   </url>
   
   <url>
-    <loc>/partners/mq/</loc>
+    <loc>/support/partners/mq/</loc>
   </url>
   
   <url>
-    <loc>/partners/nac/</loc>
+    <loc>/support/partners/nac/</loc>
   </url>
   
   <url>
-    <loc>/partners/nce/</loc>
+    <loc>/support/partners/nce/</loc>
   </url>
   
   <url>
-    <loc>/partners/nebraska_spine/</loc>
+    <loc>/support/partners/nespine/</loc>
   </url>
   
   <url>
-    <loc>/partners/nosh/</loc>
+    <loc>/support/partners/nosh/</loc>
   </url>
   
   <url>
@@ -115,7 +119,7 @@
   </url>
   
   <url>
-    <loc>/partners/studiob/</loc>
+    <loc>/support/partners/studiob/</loc>
   </url>
   
   <url>
@@ -123,7 +127,7 @@
   </url>
   
   <url>
-    <loc>/partners/vesper/</loc>
+    <loc>/support/partners/vesper/</loc>
   </url>
   
 </urlset>
