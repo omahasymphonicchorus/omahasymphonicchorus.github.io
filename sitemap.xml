@@ -19,10 +19,6 @@
   </url>
   
   <url>
-    <loc>/support/partners/</loc>
-  </url>
-  
-  <url>
     <loc>/season/concerts/gala/</loc>
   </url>
   
@@ -31,11 +27,15 @@
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>/partners/</loc>
   </url>
   
   <url>
     <loc>/season/concerts/spring/</loc>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
   </url>
   
   <url>
@@ -51,7 +51,7 @@
   </url>
   
   <url>
-    <loc>/support/partners/dickinson/</loc>
+    <loc>/partners/dickinson/</loc>
   </url>
   
   <url>
@@ -63,55 +63,55 @@
   </url>
   
   <url>
-    <loc>/support/partners/ginger/</loc>
+    <loc>/partners/ginger/</loc>
   </url>
   
   <url>
-    <loc>/support/partners/immanuel/</loc>
+    <loc>/partners/immanuel/</loc>
   </url>
   
   <url>
-    <loc>/support/partners/kios/</loc>
+    <loc>/partners/kios/</loc>
   </url>
   
   <url>
-    <loc>/support/partners/kvno/</loc>
+    <loc>/partners/kvno/</loc>
   </url>
   
   <url>
-    <loc>/support/partners/lepeep/</loc>
+    <loc>/partners/lepeep/</loc>
   </url>
   
   <url>
-    <loc>/support/partners/ls/</loc>
+    <loc>/partners/ls/</loc>
   </url>
   
   <url>
-    <loc>/support/partners/mb/</loc>
+    <loc>/partners/mb/</loc>
   </url>
   
   <url>
-    <loc>/support/partners/marchio/</loc>
+    <loc>/partners/marchio/</loc>
   </url>
   
   <url>
-    <loc>/support/partners/mq/</loc>
+    <loc>/partners/mq/</loc>
   </url>
   
   <url>
-    <loc>/support/partners/nac/</loc>
+    <loc>/partners/nac/</loc>
   </url>
   
   <url>
-    <loc>/support/partners/nce/</loc>
+    <loc>/partners/nce/</loc>
   </url>
   
   <url>
-    <loc>/support/partners/nespine/</loc>
+    <loc>/partners/nespine/</loc>
   </url>
   
   <url>
-    <loc>/support/partners/nosh/</loc>
+    <loc>/partners/nosh/</loc>
   </url>
   
   <url>
@@ -119,7 +119,7 @@
   </url>
   
   <url>
-    <loc>/support/partners/studiob/</loc>
+    <loc>/partners/studiob/</loc>
   </url>
   
   <url>
@@ -127,7 +127,7 @@
   </url>
   
   <url>
-    <loc>/support/partners/vesper/</loc>
+    <loc>/partners/vesper/</loc>
   </url>
   
 </urlset>
