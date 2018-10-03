@@ -4344,6 +4344,11 @@ var paymentForm = new SqPaymentForm({
      * Triggered when: a digital wallet payment button is clicked.
      */
     createPaymentRequest: function() {
+      $(".donation-processing>.success").hide();
+      $(".donation-processing>.failure").hide();
+      $(".donation-processing>.processing").hide();
+      $(".donation-processing").show();
+      $(".donation-processing>.processing").fadeIn();
       return {
         requestShippingAddress: false,
         requestBillingInfo: false,
