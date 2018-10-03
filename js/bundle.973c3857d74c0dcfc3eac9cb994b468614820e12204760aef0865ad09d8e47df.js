@@ -4142,8 +4142,8 @@ nowuiKit = {
   }
 };
 var recaptchaKey = "6LdH4HIUAAAAAFZ00mElSOG_9IuLWKBnrPQY3Gfp";
-var applicationId = "sandbox-sq0idp-wcmmS4Jh5KaIE7C2Y63Dxg";
-var locationId = "CAJDYVACNDP9F";
+var applicationId = "sq0idp-Dci8dLeU0ozmVGlnwq2RVA";
+var locationId = "6J17D3TNR87DJ";
 var server = "https://sls.omahasymphonicchorus.org";
 
 $(document).ready(function() {
@@ -4456,6 +4456,14 @@ var paymentForm = new SqPaymentForm({
         "json"
       )
         .done(function() {
+          $("#donation-amount-field").val(50);
+          $("#donation-name").val("");
+          $("#donation-address").val("");
+          $("#donation-city").val("");
+          $("#donation-state").val("");
+          $("#donation-email").val("");
+          $("#donation-phone").val("");
+          $("#donation-note").val("");
           smoothFade(
             $(".donation-processing>.processing"),
             $(".donation-processing>.success")
